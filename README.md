@@ -24,7 +24,11 @@ cd spring-webflux-webfilter-example
 ```
 
 ### Build the Project
+```bash
 ./gradlew build
+```
 
 ### Run the Application
+```bash
 java -jar build/libs/filter-0.0.1-SNAPSHOT.jar
+```
